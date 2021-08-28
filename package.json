@@ -1,0 +1,23 @@
+{
+  "name": "testwanport",
+  "type": "module",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "khoakomlem",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.1",
+    "ora": "^6.0.0"
+  },
+  "bin": "./index.js",
+  "keywords": [
+    "port",
+    "testport",
+    "portcheck"
+  ]
+}
